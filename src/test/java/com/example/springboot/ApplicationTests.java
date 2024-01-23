@@ -1,10 +1,10 @@
-package com.example.task311;
+package com.example.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Task311ApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
